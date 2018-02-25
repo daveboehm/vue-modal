@@ -1,4 +1,4 @@
-# modal
+# Modal
 
 > A Vue2 Modal component.
 
